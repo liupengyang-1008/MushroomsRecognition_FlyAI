@@ -1,0 +1,7 @@
+numpy==1.20.3
+torchvision==0.8.2
+matplotlib==3.4.2
+opencv_python==4.5.3.56
+FlyAI==0.7.1
+torch==1.7.1
+Pillow==8.3.1
